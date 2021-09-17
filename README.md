@@ -53,7 +53,7 @@ Aftering getting the bytecode of program under test, type the following command 
 ```
 
 ## Video
-You can watch a ASE'20 presentation video [here](https://drive.google.com/file/d/12CRdUf1NaJ7T6v4k0BZ19halQX_ducYH/view)
+You can watch an ASE'20 presentation video [here](https://drive.google.com/file/d/12CRdUf1NaJ7T6v4k0BZ19halQX_ducYH/view)
 
 ## FAQ 
 
