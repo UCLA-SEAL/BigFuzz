@@ -42,7 +42,7 @@ series = {ASE '20}
 
 ## Prerequisites
 
-BigFuzz is built on top of [JQF](https://github.com/rohanpadhye/JQF). The source-to-source transformation is dependent on spark-2.4.3 and scala-2.11.8.
+BigFuzz is built on top of [JQF](https://github.com/rohanpadhye/JQF). The source-to-source transformation is dependent on spark-2.4.3 and scala-2.11.8. The UDF extraction part is devised from [UDFExtractor](https://github.com/maligulzar/BigTest/tree/JPF-integrated/UDFExtractor/src/udfExtractor).
 
 
 ## How to use this tool
