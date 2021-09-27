@@ -17,6 +17,8 @@ If you encounter any problems, please open an issue or feel free to contact us:
 
 [Jiyuan Wang](http://web.cs.ucla.edu/~wangjiyuan): PhD student, wangjiyuan@cs.ucla.edu;
 
+[Miryung Kim](http://web.cs.ucla.edu/~miryung/): Professor at UCLA, miryung@cs.ucla.edu;
+
 ## How to cite 
 Please refer to our ASE'21 paper, [Efficient Fuzz Testing for Data Analytics using Framework Abstraction](http://web.cs.ucla.edu/~miryung/Publications/ase2020-bigfuzz.pdf) for more details. 
 ### Bibtex  
